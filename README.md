@@ -1,6 +1,6 @@
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/sumitkumarsingh37893/VCPlayBot "> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 - Support Channel :- [Awesome Bot](http://t.me/LaylaList)
@@ -90,6 +90,6 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 #### Special Credits
-- [Rojserbest](http://github.com/sumitkumarsingh37893): Callsmusic Developer
+- [Rojserbest](http://github.com/QueenArzoo): Callsmusic Developer
 - [Awesome Bot](http://t.me/LaylaList) Channel bot list
 - [Dev](http://t.me/HEROGAMERS1) Hero owner of this bot
